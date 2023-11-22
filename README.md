@@ -8,7 +8,7 @@
 <p>
 
 <p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=epitechlola&color=blueviolet&style=plastic'>
+<img src='https://komarev.com/ghpvc/?username=epitechlola&color=0020D3&style=plastic'>
 </strong> <p>
 
 ```java

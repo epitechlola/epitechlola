@@ -4,7 +4,7 @@
 <p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?color=0020D3&size=24&duration=4200&center=true&width=222&height=42&lines=Morgan+LEFEBVRE'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=0020D3&size=24&duration=4200&center=true&width=222&height=42&lines=Lola+LEFEBVRE'>
 <p>
 
 <p align=center>  <strong>
@@ -12,7 +12,7 @@
 </strong> <p>
 
 ```java
-public class Morgan {
+public class Lola {
 	String name;
 	String surname;
 	Integer age;
@@ -20,7 +20,7 @@ public class Morgan {
 
 	public Morgan() {
 		this.name = "Lefebvre";
-		this.surname = "Morgan";
+		this.surname = "Lola";
 		this.age = 20;
 		this.location = "Montpellier, France";
 	}

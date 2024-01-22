@@ -17,12 +17,14 @@ public class Lola {
 	String surname;
 	Integer age;
 	String location;
+	String htb_profile;
 
 	public Morgan() {
 		this.name = "Lefebvre";
 		this.surname = "Lola";
 		this.age = 20;
 		this.location = "Montpellier, France";
+		this.htb_profile = "https://app.hackthebox.com/users/1695227";
 	}
 }
 ```
